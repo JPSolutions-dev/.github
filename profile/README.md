@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./logo.png" alt="JP Solutions Logo" width="130" height="130" />
 
-  <h1>JP Solutions</h1>
+  <h1>Joey Peter - IT-Solutions</h1>
 
   <p><strong>Software &amp; Web Development</strong><br/>
   Personal. Uncomplicated. At fair prices.</p>
