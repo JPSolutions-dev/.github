@@ -7,8 +7,8 @@
   Personal. Uncomplicated. At fair prices.</p>
 
   <p>
-    <a href="https://www.jpsolutions.dev">
-      <img src="https://img.shields.io/badge/Website-jpsolutions.dev-1857D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <a href="https://www.peter-webdesign.de">
+      <img src="https://img.shields.io/badge/Website-peter-webdesign.de?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
     <a href="mailto:contact@jpsolutions.dev">
       <img src="https://img.shields.io/badge/Contact-Email-00CFEE?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
