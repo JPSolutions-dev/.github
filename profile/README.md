@@ -8,7 +8,7 @@
 
   <p>
     <a href="https://www.peter-webdesign.de">
-      <img src="https://img.shields.io/badge/Website-peter--webdesign.de-00CFEE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-peter--webdesign.de-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
     <a href="mailto:contact@jpsolutions.dev">
       <img src="https://img.shields.io/badge/Contact-Email-00CFEE?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
